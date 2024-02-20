@@ -1,0 +1,14 @@
+{
+  "name": "aws_ses",
+  "version": "1.0.0",
+  "main": "ses_sendemail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.1561.0"
+  }
+}
